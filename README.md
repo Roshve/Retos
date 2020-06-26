@@ -111,3 +111,27 @@ Ejemplos:
 
 Platzi 👉 Latzipay
 Abeja 👉 Abejaway
+
+Reto #1 - Multiplicar decimales
+Pide a tu usuario que ingrese 2 números con decimales (cuantos más mejor) y muestra el resultado de multiplicarlos ¿fácil, no?
+
+### Reto #2 - Reducir los decimales
+Toma como base el reto anterior, pero ajústalo para que el resultado muestre solamente 1, 2, 3 o 4 decimales.
+
+Reto #3 - Raíces cuadradas redondeadas
+Pide a tu usuario que ingrese un número, cuyo valor debe ser mayor a 20, luego calcula su raíz cuadrada y reduce a 2 o 3 decimales el resultado final.
+
+Reto #4 - Calcular área de un círculo
+Solicita a tu usuario que ingrese un número el cual será el radio de un círculo y con este dato calcula el área de un círculo.
+Si tu lenguaje cuenta con librerías específicas para este propósito haz uso de las mismas.
+
+Reto #5 - Calcular volumen de un cilindro
+Pide a tu usuario que indique el radio y la profundidad de un cilindro. Después aplica la fórmula correspondiente para calcular el volumen del cilindro y reduce el resultado a un solo decimal.
+
+Reto #6 - Mostrar enteros y residuos
+Pide al usuario que ingrese 2 números, divídelos, muestra un resultado como enteros y además el residuo por separado de una forma que seal fácil de entender al usuario.
+Por ejemplo: “9 dividido entre 2 es 4 y sobra 1”.
+
+Reto #7 - Calcular perímetros y áreas
+Muestra un menú con distintas figuras geométricas, por lo menos 3 diferentes (triángulo, cuadrado, pentágono, etc.)
+Tu usuario debe poder elegir alguna de estas figuras, indicar la distancia de sus lados y mostrar como resultado tanto el perímetro como el área de dicha figura.
