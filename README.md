@@ -135,3 +135,33 @@ Por ejemplo: “9 dividido entre 2 es 4 y sobra 1”.
 Reto #7 - Calcular perímetros y áreas
 Muestra un menú con distintas figuras geométricas, por lo menos 3 diferentes (triángulo, cuadrado, pentágono, etc.)
 Tu usuario debe poder elegir alguna de estas figuras, indicar la distancia de sus lados y mostrar como resultado tanto el perímetro como el área de dicha figura.
+
+Reto #1 - Curso favorito
+Pide a tu usuario que indique cual es su curso favorito de Platzi e imprímelo en pantalla 8 veces.
+¿Por qué 8 veces? Porque este año Platzi cumplió 8 años 😉
+
+Reto #2 - Curso favorito ‘n’ veces
+Toma el reto anterior, pero ahora pregunta al usuario cuantas veces quiere mostrar el mensaje.
+¿Qué pasa si coloca cero como respuesta? 🤔
+
+### Reto #3 - Curso en una columna
+Nuevamente, pide a tu usuario que indique su curso favorito de Platzi pero ahora muestra un caracter por línea de forma que puede parecer el inicio de un acróstico.
+
+Reto #4 - Animal en columna ‘n’ veces.
+Toma como base el reto anterior, pide a tu usuario que indique su animal favorito y después muéstralo con un caracter por línea. Esto debe repetirse un número de veces que ya hayas preguntado a tu usuario.
+
+Reto #5 - Tabla de multiplicar
+Pide a tu usuario un número, luego de ello muestra la tabla de multiplicar de ese número del 1 al 10.
+
+Reto # 6 - Cuenta regresiva
+Pide a tu usuario un número, después imprime una cuenta regresiva uno a uno, desde ese número hasta 0. Esto aplica también para números negativos.
+
+Reto #7 - Curso favorito, sin exagerar
+Toma como base el Reto #2, pero agrega como condiciones las siguientes:
+
+Si el número ‘n’ es mayor a 15, solo imprimirás el nombre del curso 3 veces e indicarás que ‘n’ es un número muy grande.
+### Reto #8 - Suma autorizada
+Crearás un programa que pedirá a tu usuario 4 números, uno por uno. Al indicarlo preguntarás al usuario si desea sumarlo al total, si la respuesta es afirmativa se sumará. Al final debes mostrar el valor de la suma de aquellos números que fueron aceptados para la suma.
+
+Reto #9 - Recta numérica
+Escribe un programa donde preguntes a tu usuario si desea una recta numérica positiva o negativa, después pide un número que servirá como límite e imprime todos los números de uno en uno partiendo desde el cero.
