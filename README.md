@@ -46,3 +46,35 @@ Reto #10 “Conversor de millas”
 Instrucciones: hay 1.609344 km en una milla (mi). Escribe un programa en el que el usuario indique una cantidad de millas y muestre en pantalla el resultado convertido a kilómetros.
 Reto #11 “Cuantas veces un número en otro”
 Instrucciones: pide al usuario ingresar un número mayor a 1000 y otro menor a 100. Indica de una forma sencilla de entender al usuario cuantas veces cabe el número menor a 100 en el número mayor a 1000
+
+Reto #1 - Número mayor y menor
+Escribe un programa que pida al usuario 2 números, mostrando como salida cuál es el número mayor y la diferencia de uno respecto al otro. En caso de que los números sean iguales, mostrarlo también en pantalla.
+
+Reto #2 - En el rango, por favor.
+Pide al usuario que indique 2 números: uno que servirá como límite y otro para comparar. Si el segundo número es menor al primero, mostrarás un mensaje diciendo “El número ‘x’ se encuentra en el rango, gracias” y en caso contrario dirá “El número ‘x’ excede el límite permitido”.
+
+Reto #3 - Rangos cambiantes.
+Nuevamente pide a tu usuario que indique 3 números: un límite superior, un límite inferior y uno de comparación. Si el número de comparación se encuentra entre los 2 primeros, comunicarlo en pantalla. En caso estar por debajo del límite inferior o por arriba del límite superior, también mostrarlo en pantalla.
+
+Reto #4 - “I like turtles”
+Escribe un programa que pida al usuario ingrese su animal favorito, si coloca ‘Tortuga’, ‘tortuga’, ‘TORTUGA’ o cualquier otra variante de la palabra entonces mostrar en pantalla “También me gustan las tortugas”. En caso contrario mostrar el mensaje “Ese animal es genial, pero prefiero las tortugas”.
+
+Reto #5 - ¿Cómo está el clima?
+Crea un programa que pregunte al usuario si está lloviendo, en caso de responder “sí” pregunta si está haciendo mucho viento y si responde “sí” nuevamente muestra un mensaje indicando que hace mucho viento para salir con una sombrilla. En caso contrario, anima al usuario a que lleve una sombrilla. Para el caso de responder “no” en la primer pregunta, entonces solo desea un bonito día.
+Considera que las respuestas pueden pasarse a minúsculas para evitar posibles errores.
+
+Reto #6 - Edad permitida
+Pide al usuario que ingrese su edad y mostrarás un mensaje correspondiente si esta coincide con las siguientes condiciones:
+Más de 30 años: Nunca es tarde para aprender ¿Qué curso tomaremos?
+Entre 29 y 18 años: Es un momento excelente para impulsar tu carrera.
+Menos de 18 años: ¿Sabes hacia dónde dirigir tu futuro? Seguro puedo ayudarte.
+
+Reto #7 - Mensajes opcionales
+Crearás un un script para el que el usuario indicará un número entre 1 y 6. Como respuesta se le brindará un mensaje según el número leido:
+1 - “Hoy aprenderemos sobre prorgamación”
+2 - “¿Qué tal tomar un curso de marketing digital?
+3 - “Hoy es un gran día para comenzar a aprender de diseño”
+4 - ¿Y si aprendemos algo de negocios online?
+5 - “Veamos un par de clases sobre producción audiovisual”
+6 - “Tal vez sea bueno desarrollar una habilidad blanda en Platzi”
+En caso indicar un número distinto, pedir al usuario que ingrese uno en el rango válido.
