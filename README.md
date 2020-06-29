@@ -12,6 +12,7 @@ No existe una respuesta única ya que puedes resolverlos de distinta forma.
 Recuerda compartirnos el código de tu solución y/o repositorio 😉
 Reto #1 “Hola Mundo”
 Instrucciones: este es un clásico de clásicos, pero haremos un pequeño cambio. En lugar de solo imprimir un mensaje en pantalla, pedirás al usuario que digite un nombre y mostrarás en pantalla lo siguiente: Hola, [nombre]
+
 Reto #2 “Hola… nombre y apellido:”
 Instrucciones: Ahora que sabemos incluir nombres, podemos agregar más datos. Intentemos con un apellido para tener algo así: ``Hola, [nombre] [apellido]``
 Reto #3 “Mensaje multilínea”
