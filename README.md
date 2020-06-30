@@ -15,6 +15,7 @@ Instrucciones: este es un clásico de clásicos, pero haremos un pequeño cambio
 
 Reto #2 “Hola… nombre y apellido:”
 Instrucciones: Ahora que sabemos incluir nombres, podemos agregar más datos. Intentemos con un apellido para tener algo así: ``Hola, [nombre] [apellido]``
+
 Reto #3 “Mensaje multilínea”
 Instrucciones: seguro has visto que en Platzi hay más de 600 cursos ¿puedes mostrar a que categorías corresponden en una sola línea de código?
 Debe mostrarse así:
@@ -25,6 +26,7 @@ Platzi cuenta con cursos de:
 [categoría4]
 [categoría5]
 [categoría6]
+
 Reto #4 “Suma de enteros”
 Instrucciones: otro clásico conocido, donde pedirás al usuario que ingrese 2 números y muestre en pantalla el resultado. Si quieres añadir más dificultad puedes utilizar números con punto decimal y especificar el número de decimales después del punto.
 Ejemplo: 2.5633 + 5.6883 = 8.25
