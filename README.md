@@ -12,6 +12,7 @@ No existe una respuesta única ya que puedes resolverlos de distinta forma.
 
 Recuerda compartirnos el código de tu solución y/o repositorio 😉
 
+---
 Reto #1 “Hola Mundo”
 Instrucciones: este es un clásico de clásicos, pero haremos un pequeño cambio. En lugar de solo imprimir un mensaje en pantalla, pedirás al usuario que digite un nombre y mostrarás en pantalla lo siguiente: Hola, [nombre]
 
@@ -59,6 +60,7 @@ Instrucciones: hay 1.609344 km en una milla (mi). Escribe un programa en el que 
 Reto #11 “Cuantas veces un número en otro”
 Instrucciones: pide al usuario ingresar un número mayor a 1000 y otro menor a 100. Indica de una forma sencilla de entender al usuario cuantas veces cabe el número menor a 100 en el número mayor a 1000
 
+---
 Reto #1 - Número mayor y menor
 Escribe un programa que pida al usuario 2 números, mostrando como salida cuál es el número mayor y la diferencia de uno respecto al otro. En caso de que los números sean iguales, mostrarlo también en pantalla.
 
@@ -91,6 +93,7 @@ Crearás un un script para el que el usuario indicará un número entre 1 y 6. C
 6 - “Tal vez sea bueno desarrollar una habilidad blanda en Platzi”
 En caso indicar un número distinto, pedir al usuario que ingrese uno en el rango válido.
 
+---
 Reto #1 Longitud del string
 Pide a tu usuario que ingrese el nombre de su curso favorito, obtén la longitud de ese string y muéstralo en pantalla.
 
@@ -124,10 +127,11 @@ Ejemplos:
 Platzi 👉 Latzipay
 Abeja 👉 Abejaway
 
+---
 Reto #1 - Multiplicar decimales
 Pide a tu usuario que ingrese 2 números con decimales (cuantos más mejor) y muestra el resultado de multiplicarlos ¿fácil, no?
 
-### Reto #2 - Reducir los decimales
+Reto #2 - Reducir los decimales
 Toma como base el reto anterior, pero ajústalo para que el resultado muestre solamente 1, 2, 3 o 4 decimales.
 
 Reto #3 - Raíces cuadradas redondeadas
@@ -148,6 +152,7 @@ Reto #7 - Calcular perímetros y áreas
 Muestra un menú con distintas figuras geométricas, por lo menos 3 diferentes (triángulo, cuadrado, pentágono, etc.)
 Tu usuario debe poder elegir alguna de estas figuras, indicar la distancia de sus lados y mostrar como resultado tanto el perímetro como el área de dicha figura.
 
+---
 Reto #1 - Curso favorito
 Pide a tu usuario que indique cual es su curso favorito de Platzi e imprímelo en pantalla 8 veces.
 ¿Por qué 8 veces? Porque este año Platzi cumplió 8 años 😉
@@ -156,7 +161,7 @@ Reto #2 - Curso favorito ‘n’ veces
 Toma el reto anterior, pero ahora pregunta al usuario cuantas veces quiere mostrar el mensaje.
 ¿Qué pasa si coloca cero como respuesta? 🤔
 
-### Reto #3 - Curso en una columna
+Reto #3 - Curso en una columna
 Nuevamente, pide a tu usuario que indique su curso favorito de Platzi pero ahora muestra un caracter por línea de forma que puede parecer el inicio de un acróstico.
 
 Reto #4 - Animal en columna ‘n’ veces.
@@ -172,7 +177,8 @@ Reto #7 - Curso favorito, sin exagerar
 Toma como base el Reto #2, pero agrega como condiciones las siguientes:
 
 Si el número ‘n’ es mayor a 15, solo imprimirás el nombre del curso 3 veces e indicarás que ‘n’ es un número muy grande.
-### Reto #8 - Suma autorizada
+
+Reto #8 - Suma autorizada
 Crearás un programa que pedirá a tu usuario 4 números, uno por uno. Al indicarlo preguntarás al usuario si desea sumarlo al total, si la respuesta es afirmativa se sumará. Al final debes mostrar el valor de la suma de aquellos números que fueron aceptados para la suma.
 
 Reto #9 - Recta numérica
