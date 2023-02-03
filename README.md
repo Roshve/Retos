@@ -116,10 +116,8 @@ Tu usuario ingresará su nombre, si tiene una longitud mayor a 5 caracteres most
 
 7. ¡Hablemos Pig Latin! (Puerco Latino) 🐷
 Solo una cosa, pide a tu usuario que ingrese una palabra y tradúcela a Pig Latin.
-
 Espera ¡¿qué?!
 PuercoLatino es como el idioma de la “efe”, donde cambiamos las palabras bajo ciertas condiciones. En este caso será así:
-
 La primer consonante de una palabra se pasa al final y se agrega la sílaba “ay”.
 Si una palabra inicia con vocal, se agrega “way” al final.
 Ejemplos:
@@ -175,7 +173,6 @@ Pide a tu usuario un número, después imprime una cuenta regresiva uno a uno, d
 
 7. Curso favorito, sin exagerar
 Toma como base el 2., pero agrega como condiciones las siguientes:
-
 Si el número ‘n’ es mayor a 15, solo imprimirás el nombre del curso 3 veces e indicarás que ‘n’ es un número muy grande.
 
 8. Suma autorizada
