@@ -61,29 +61,29 @@ Instrucciones: hay 1.609344 km en una milla (mi). Escribe un programa en el que 
 Instrucciones: pide al usuario ingresar un número mayor a 1000 y otro menor a 100. Indica de una forma sencilla de entender al usuario cuantas veces cabe el número menor a 100 en el número mayor a 1000
 
 ---
-1. - Número mayor y menor
+1. Número mayor y menor
 Escribe un programa que pida al usuario 2 números, mostrando como salida cuál es el número mayor y la diferencia de uno respecto al otro. En caso de que los números sean iguales, mostrarlo también en pantalla.
 
-2. - En el rango, por favor.
+2. En el rango, por favor.
 Pide al usuario que indique 2 números: uno que servirá como límite y otro para comparar. Si el segundo número es menor al primero, mostrarás un mensaje diciendo “El número ‘x’ se encuentra en el rango, gracias” y en caso contrario dirá “El número ‘x’ excede el límite permitido”.
 
-3. - Rangos cambiantes.
+3. Rangos cambiantes.
 Nuevamente pide a tu usuario que indique 3 números: un límite superior, un límite inferior y uno de comparación. Si el número de comparación se encuentra entre los 2 primeros, comunicarlo en pantalla. En caso estar por debajo del límite inferior o por arriba del límite superior, también mostrarlo en pantalla.
 
-4. - “I like turtles”
+4. “I like turtles”
 Escribe un programa que pida al usuario ingrese su animal favorito, si coloca ‘Tortuga’, ‘tortuga’, ‘TORTUGA’ o cualquier otra variante de la palabra entonces mostrar en pantalla “También me gustan las tortugas”. En caso contrario mostrar el mensaje “Ese animal es genial, pero prefiero las tortugas”.
 
-5. - ¿Cómo está el clima?
+5. ¿Cómo está el clima?
 Crea un programa que pregunte al usuario si está lloviendo, en caso de responder “sí” pregunta si está haciendo mucho viento y si responde “sí” nuevamente muestra un mensaje indicando que hace mucho viento para salir con una sombrilla. En caso contrario, anima al usuario a que lleve una sombrilla. Para el caso de responder “no” en la primer pregunta, entonces solo desea un bonito día.
 Considera que las respuestas pueden pasarse a minúsculas para evitar posibles errores.
 
-6. - Edad permitida
+6. Edad permitida
 Pide al usuario que ingrese su edad y mostrarás un mensaje correspondiente si esta coincide con las siguientes condiciones:
 Más de 30 años: Nunca es tarde para aprender ¿Qué curso tomaremos?
 Entre 29 y 18 años: Es un momento excelente para impulsar tu carrera.
 Menos de 18 años: ¿Sabes hacia dónde dirigir tu futuro? Seguro puedo ayudarte.
 
-7. - Mensajes opcionales
+7. Mensajes opcionales
 Crearás un un script para el que el usuario indicará un número entre 1 y 6. Como respuesta se le brindará un mensaje según el número leido:
 1 - “Hoy aprenderemos sobre prorgamación”
 2 - “¿Qué tal tomar un curso de marketing digital?
@@ -126,27 +126,27 @@ Platzi 👉 Latzipay
 Abeja 👉 Abejaway
 
 ---
-1. - Multiplicar decimales
+1. Multiplicar decimales
 Pide a tu usuario que ingrese 2 números con decimales (cuantos más mejor) y muestra el resultado de multiplicarlos ¿fácil, no?
 
-2. - Reducir los decimales
+2. Reducir los decimales
 Toma como base el reto anterior, pero ajústalo para que el resultado muestre solamente 1, 2, 3 o 4 decimales.
 
-3. - Raíces cuadradas redondeadas
+3. Raíces cuadradas redondeadas
 Pide a tu usuario que ingrese un número, cuyo valor debe ser mayor a 20, luego calcula su raíz cuadrada y reduce a 2 o 3 decimales el resultado final.
 
-4. - Calcular área de un círculo
+4. Calcular área de un círculo
 Solicita a tu usuario que ingrese un número el cual será el radio de un círculo y con este dato calcula el área de un círculo.
 Si tu lenguaje cuenta con librerías específicas para este propósito haz uso de las mismas.
 
-5. - Calcular volumen de un cilindro
+5. Calcular volumen de un cilindro
 Pide a tu usuario que indique el radio y la profundidad de un cilindro. Después aplica la fórmula correspondiente para calcular el volumen del cilindro y reduce el resultado a un solo decimal.
 
-6. - Mostrar enteros y residuos
+6. Mostrar enteros y residuos
 Pide al usuario que ingrese 2 números, divídelos, muestra un resultado como enteros y además el residuo por separado de una forma que seal fácil de entender al usuario.
 Por ejemplo: “9 dividido entre 2 es 4 y sobra 1”.
 
-7. - Calcular perímetros y áreas
+7. Calcular perímetros y áreas
 Muestra un menú con distintas figuras geométricas, por lo menos 3 diferentes (triángulo, cuadrado, pentágono, etc.)
 Tu usuario debe poder elegir alguna de estas figuras, indicar la distancia de sus lados y mostrar como resultado tanto el perímetro como el área de dicha figura.
 
